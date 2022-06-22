@@ -1,6 +1,6 @@
 #include "stdio.h"
 
 int main(void){
-	int i = 0;
-	return 0;
+	int i = 1;
+	int j = 0;
 }
